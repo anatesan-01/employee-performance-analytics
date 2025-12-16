@@ -1,0 +1,40 @@
+,first_name,last_name,email,join_date,salary,remarks,sales,time_productive,increment_percentage,final_incremented_salary,termination_flag,experience_days,experience_years,exp_year_cln,promotion_hr_based
+0,Yuki,Tanaka,yuki34@outlook.com,2021-10-09,,Good employee,4133.0,85.0,12,,No,1474.0,4.0,4.0 years 14.0 days,Promotion Pipeline
+1,Wei,Singh,wei@gmail.com,2021-10-09,,Good employee,3138.0,,10,,No,1474.0,4.0,4.0 years 14.0 days,Promotion Pipeline
+2,Olga,Kumar,unknown@no_mail.com,2022-11-02,52872.0,Needs improvement,,,3,54458.16,No,1085.0,2.0,2.0 years 355.0 days,Not In Promotion Pipeline
+3,Sara,Patel,sara78@yahoo.com,2021-06-25,78655.0,unknown,2915.0,,10,86520.5,No,1580.0,4.0,4.0 years 120.0 days,Promotion Pipeline
+4,Luis,Kumar,luis@gmail.com,2023-07-22,62016.0,Good employee,4641.0,92.0,12,69457.92,No,823.0,2.0,2.0 years 93.0 days,Not In Promotion Pipeline
+5,Fatima,Garcia,fatima@yahoo.com,2020-01-08,,unknown,2261.0,,10,,No,2114.0,5.0,5.0 years 289.0 days,Promotion Pipeline
+7,Michael,Kumar,michael43@outlook.com,2024-11-05,87764.0,unknown,,,3,90396.92,No,351.0,0.0,0.0 years 351.0 days,Not In Promotion Pipeline
+8,Priya,Garcia,priya@yahoo.com,,37084.0,Good employee,2588.0,168.0,10,40792.4,No,,,nan years nan days,Not In Promotion Pipeline
+9,Wei,Chen,wei4@gmail.com,2022-11-09,,Needs improvement,1263.0,157.0,8,,No,1078.0,2.0,2.0 years 348.0 days,Not In Promotion Pipeline
+10,Michael,Tanaka,michael41@outlook.com,2021-06-27,58479.0,unknown,1291.0,85.0,8,63157.32,No,1578.0,4.0,4.0 years 118.0 days,Not In Promotion Pipeline
+11,Olga,Garcia,olga25@outlook.com,2022-04-16,75692.0,unknown,921.0,91.0,8,81747.36,No,1285.0,3.0,3.0 years 190.0 days,Not In Promotion Pipeline
+12,Fatima,Patel,fatima27@outlook.com,2023-03-11,56612.0,unknown,3059.0,87.0,10,62273.2,No,956.0,2.0,2.0 years 226.0 days,Not In Promotion Pipeline
+13,Yuki,Chen,yuki95@yahoo.com,2022-06-23,,unknown,4656.0,106.0,12,,No,1217.0,3.0,3.0 years 122.0 days,Not In Promotion Pipeline
+14,Sara,Garcia,sara@yahoo.com,,70583.0,unknown,4450.0,56.0,12,79052.95999999999,No,,,nan years nan days,Not In Promotion Pipeline
+15,Anil,Brown,anil52@yahoo.com,,,Good employee,2352.0,110.0,10,,No,,,nan years nan days,Not In Promotion Pipeline
+16,Sara,Singh,sara97@outlook.com,2024-06-29,,unknown,,57.0,3,,No,480.0,1.0,1.0 years 115.0 days,Not In Promotion Pipeline
+17,Olga,Brown,olga@outlook.com,2023-01-27,,Needs improvement,3283.0,135.0,10,,No,999.0,2.0,2.0 years 269.0 days,Not In Promotion Pipeline
+19,Priya,Lee,priya54@outlook.com,2022-04-14,60534.0,unknown,,51.0,3,62350.02,No,1287.0,3.0,3.0 years 192.0 days,Not In Promotion Pipeline
+20,John,Tanaka,john@outlook.com,2022-02-18,49569.0,unknown,2262.0,115.0,10,54525.9,No,1342.0,3.0,3.0 years 247.0 days,Not In Promotion Pipeline
+21,Anil,Chen,anil11@outlook.com,2024-04-07,79283.0,Good employee,,167.0,3,81661.49,No,563.0,1.0,1.0 years 198.0 days,Not In Promotion Pipeline
+22,Olga,Smith,olga4@yahoo.com,,,Good employee,1168.0,,8,,No,,,nan years nan days,Not In Promotion Pipeline
+24,Yuki,Smith,yuki@yahoo.com,,54596.0,Good employee,2265.0,,10,60055.6,No,,,nan years nan days,Not In Promotion Pipeline
+25,Luis,Ivanova,luis54@outlook.com,2023-09-16,,Good employee,,71.0,3,,No,767.0,2.0,2.0 years 37.0 days,Not In Promotion Pipeline
+26,Yuki,Ivanova,yuki42@yahoo.com,2022-09-17,,Good employee,3737.0,149.0,3,,No,1131.0,3.0,3.0 years 36.0 days,Not In Promotion Pipeline
+29,Luis,Singh,luis90@outlook.com,2022-12-23,,Needs improvement,,,3,,No,1034.0,2.0,2.0 years 304.0 days,Not In Promotion Pipeline
+30,Priya,Kumar,priya13@yahoo.com,2022-09-18,,Needs improvement,1090.0,,8,,No,1130.0,3.0,3.0 years 35.0 days,Not In Promotion Pipeline
+31,Michael,Singh,michael44@yahoo.com,2020-07-29,48634.0,Good employee,1137.0,59.0,8,52524.72,No,1911.0,5.0,5.0 years 86.0 days,Not In Promotion Pipeline
+35,Anil,Tanaka,anil59@gmail.com,2022-08-20,,unknown,1221.0,,8,,No,1159.0,3.0,3.0 years 64.0 days,Not In Promotion Pipeline
+38,John,Garcia,john36@yahoo.com,2023-03-26,,unknown,,,3,,No,941.0,2.0,2.0 years 211.0 days,Not In Promotion Pipeline
+39,Anil,Garcia,anil42@gmail.com,,32404.0,Needs improvement,3362.0,70.0,10,35644.4,No,,,nan years nan days,Not In Promotion Pipeline
+40,Anil,Smith,anil@outlook.com,,48876.0,Good employee,1699.0,70.0,3,50342.28,No,,,nan years nan days,Not In Promotion Pipeline
+43,Anil,Kumar,anil18@gmail.com,2022-07-24,,Needs improvement,,139.0,3,,No,1186.0,3.0,3.0 years 91.0 days,Not In Promotion Pipeline
+44,Anil,Patel,anil49@outlook.com,2023-01-08,,Needs improvement,1736.0,,3,,No,1018.0,2.0,2.0 years 288.0 days,Not In Promotion Pipeline
+46,Anil,Lee,anil@yahoo.com,2022-12-13,39447.0,Good employee,,90.0,3,40630.41,No,1044.0,2.0,2.0 years 314.0 days,Not In Promotion Pipeline
+47,Wei,Kumar,wei13@outlook.com,2020-07-04,,Good employee,3520.0,142.0,3,,No,1936.0,5.0,5.0 years 111.0 days,Not In Promotion Pipeline
+48,Yuki,Patel,yuki31@outlook.com,2020-12-14,87071.0,unknown,836.0,144.0,8,94036.68,No,1773.0,4.0,4.0 years 313.0 days,Not In Promotion Pipeline
+49,Yuki,Kumar,yuki53@gmail.com,,,Good employee,2827.0,,10,,No,,,nan years nan days,Not In Promotion Pipeline
+51,Michael,Patel,michael46@yahoo.com,2023-01-11,37204.0,unknown,4665.0,83.0,12,41668.479999999996,No,1015.0,2.0,2.0 years 285.0 days,Not In Promotion Pipeline
+52,Luis,Smith,luis96@gmail.com,2020-12-22,78609.0,Needs improvement,3470.0,,10,86469.9,No,1765.0,4.0,4.0 years 305.0 days,Promotion Pipeline
